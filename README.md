@@ -5,3 +5,4 @@
 - - Variables con const
 - - Estructuras y tipos de datos
 - - Introduccion a objetos
+- - Manipulacion de objetos
