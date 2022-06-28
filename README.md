@@ -13,3 +13,4 @@
 - - Desestructuring de Arrays
 - - Iteradores de arreglos
 - - Funciones - Function declaration
+- - Funciones - Parametros y parametros por Default
