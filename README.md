@@ -10,3 +10,4 @@
 - - Unir dos o mas objetos
 - - Introduccion a arrays
 - - Manipulacion de arrays
+- - Desestructuring de Arrays
