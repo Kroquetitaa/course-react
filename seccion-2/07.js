@@ -9,5 +9,11 @@ const cliente = {
     premium: true,
 }
 
-const nuevoObjeto = Object.assign( producto, cliente);
-console.log( nuevoObjeto );
+const nuevoObjeto2 = { 
+    producto: {...producto}, 
+    cliente: {...cliente},
+};
+console.log( nuevoObjeto2 );
+
+// const nuevoObjeto = Object.assign( producto, cliente);
+// console.log( nuevoObjeto );
