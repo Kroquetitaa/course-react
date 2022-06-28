@@ -8,3 +8,4 @@
 - - Manipulacion de objetos
 - - Desestructuring de 2 o mas objetos
 - - Unir dos o mas objetos
+- - Introduccion a arrays
