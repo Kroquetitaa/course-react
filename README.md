@@ -12,3 +12,4 @@
 - - Manipulacion de arrays
 - - Desestructuring de Arrays
 - - Iteradores de arreglos
+- - Funciones - Function declaration
