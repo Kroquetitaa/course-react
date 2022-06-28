@@ -11,3 +11,4 @@
 - - Introduccion a arrays
 - - Manipulacion de arrays
 - - Desestructuring de Arrays
+- - Iteradores de arreglos
