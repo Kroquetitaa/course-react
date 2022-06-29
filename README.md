@@ -21,3 +21,4 @@
 - - Otros Array Methods utiles
 - - Condicionales - if
 - - Condicionales - Comparacion con == y ===
+- - Condicionales - Condicion || y &&
