@@ -17,3 +17,4 @@
 - - Funciones que retornan valores
 - - Funciones - Function Expression
 - - Funciones - Arrow Functions
+- - Arrow Functions y Array Methods
