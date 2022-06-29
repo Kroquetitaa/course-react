@@ -22,3 +22,17 @@
 - - Condicionales - if
 - - Condicionales - Comparacion con == y ===
 - - Condicionales - Condicion || y &&
+- - Condicionales - Ternarios
+- - Scope de Variables
+- - Selectores del DOM - querySelector
+- - Selectores del DOM - querySelectorAll
+- - Manipular HTML con JS
+- - Eventos del DOM - Clicks
+- - Eventos del DOM - Inputs
+- - Eventos del DOM - Submit
+- - Generando codigo HTML con JavaScript
+- - Imports y Exports
+- - Fetch API y Promises
+- - Fetch API con Async Await
+- - Multiples Async / Await y Performance
+- - Template Strings
